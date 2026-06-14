@@ -1,0 +1,6 @@
+gradio==6.17.3
+spaces
+transformers
+torch
+accelerate
+pillow

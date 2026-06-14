@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# artefatos de teste / modelos
+teste_poster*.png
+*.gguf
+ambiente.wav
+
+# segredos / mídia
+.env
+*.mp4
+*.mov
