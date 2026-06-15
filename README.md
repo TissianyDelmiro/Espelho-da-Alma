@@ -15,6 +15,11 @@
 </div>
 
 ---
+<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/86b2bc68-4330-4d98-b5a2-ac6aa33ae3ee" />
+<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/edcdea69-4fcc-4a48-ae03-dec255c53b4e" />
+<img width="1920" height="1616" alt="image" src="https://github.com/user-attachments/assets/e24453fa-16b8-497d-a964-99026b1ded16" />
+<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/500c69fe-c520-407d-9201-d028861f9b08" />
+
 
 > *"O espelho não mente, mas raramente mostramos a nós mesmos o suficiente para ele revelar o que há além da superfície."*
 
